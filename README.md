@@ -24,9 +24,9 @@
 ### 项目改善
 >将在docker容器中放入 - ElasticSearch 全文检索 - RabbitMQ中间件
 >
->将ElasticSearch 全文检索     
+>- ElasticSearch 全文检索     
 >- SpringCould   分布式管理   
-> - RabbitMQ     中间件
->三大高级组件完善入项目中
+>- RabbitMQ      中间件
+>三大高级组件完善整合入项目中
 >
 >项目私有，有需要请联系jkermeng@gmail.com
