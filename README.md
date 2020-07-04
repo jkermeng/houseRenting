@@ -1,5 +1,5 @@
 # houseRenting
->基于SSM的房屋租售信息管理系统--项目私有，需要请联系jkermeng@gmail.com
+>基于SSM的房屋租售信息管理系统
 >
 >spring(AOP事务管理)
 >
@@ -21,3 +21,12 @@
 >
 ## 项目展示
 
+### 项目改善
+>将在docker容器中放入 - ElasticSearch 全文检索 - RabbitMQ中间件
+>
+>将ElasticSearch 全文检索     
+>- SpringCould   分布式管理   
+> - RabbitMQ     中间件
+>三大高级组件完善入项目中
+>
+>项目私有，有需要请联系jkermeng@gmail.com
